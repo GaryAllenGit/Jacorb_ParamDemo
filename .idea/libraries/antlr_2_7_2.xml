@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="antlr-2.7.2">
+    <CLASSES>
+      <root url="jar:///spare/jacorb-3.9/lib/antlr-2.7.2.jar!/" />
+      <root url="jar:///spare/jacorb-3.9/lib/idl.jar!/" />
+      <root url="jar:///spare/jacorb-3.9/lib/jacorb-3.9.jar!/" />
+      <root url="jar:///spare/jacorb-3.9/lib/jacorb-omgapi-3.9.jar!/" />
+      <root url="jar:///spare/jacorb-3.9/lib/jacorb-services-3.9.jar!/" />
+      <root url="jar:///spare/jacorb-3.9/lib/jboss-rmi-api_1.0_spec-1.0.6.Final.jar!/" />
+      <root url="jar:///spare/jacorb-3.9/lib/picocontainer-1.2.jar!/" />
+      <root url="jar:///spare/jacorb-3.9/lib/slf4j-api-1.7.14.jar!/" />
+      <root url="jar:///spare/jacorb-3.9/lib/slf4j-jdk14-1.7.14.jar!/" />
+      <root url="jar:///spare/jacorb-3.9/lib/wrapper-3.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file:///spare/jacorb-3.9/lib" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
